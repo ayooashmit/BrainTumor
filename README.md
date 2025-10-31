@@ -17,14 +17,13 @@
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Brain_tumor)
 
 ## Statistical Evaluation 
-![Metric](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/Statistical%20Metrics.png)
+<img width="446" height="146" alt="Image" src="https://github.com/user-attachments/assets/a4ab6dc3-9cbe-43c5-94a7-d9796e79206c" />
 
 ## Filter and Feature (Hot Colormap)
 - A hot colormap was applied, a sequential black-red-yellow-white, to emulate blackbody radiation from an object at increasing temperatures
 - This was to illustrate prominent features in brain MRI scans learned by the Neural Network
-![Hot Filter](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/Hot%20Filter.png) 
-![Feature](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/Feature%20(Hot).png)
-![Feature2](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/Feature%202%20(Hot).png)
+<img width="575" height="180" alt="Image" src="https://github.com/user-attachments/assets/b2201594-ee85-4e3a-99f7-be616846ebec" />
+
 
 ## Classifications from test samples
 - The images below got presevered to be used to test the model. <br>

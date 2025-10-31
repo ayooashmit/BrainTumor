@@ -13,7 +13,7 @@
 **Dataset:** https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection <br>
 
 ## Brain MRI scan (Gray Image)
-![GrayImage](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/Brin%20Tumor%20Gray%20Image.jpg) <br>
+![GrayImage]([https://github.com/user-attachments/assets/96041b8d-e692-4a1e-9cff-381a53f5791f]) <br>
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Brain_tumor)
 
 ## Statistical Evaluation 

@@ -30,6 +30,8 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Brain_tumor)
 - Outputs from the Classification.py <br> 
 <img width="400" height="429" alt="Image" src="https://github.com/user-attachments/assets/4da35ba6-2025-48b6-9389-fcaa81277ae2" />
 <img width="393" height="535" alt="Image" src="https://github.com/user-attachments/assets/06431cf1-fe5a-467e-84cd-4acfb14bf930" />
+
+
 ## Application to Classify Brain Tumor (screenshot)
 <img width="738" height="454" alt="Image" src="https://github.com/user-attachments/assets/e967b2b3-f73d-4501-8538-302e19161a63" />
 

@@ -28,9 +28,8 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Brain_tumor)
 ## Classifications from test samples
 - The images below got presevered to be used to test the model. <br>
 - Outputs from the Classification.py <br> 
-![Tumor](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/TumorClassfication.png)
-![Normal](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/NoTumorClassification.png)
-
+<img width="400" height="429" alt="Image" src="https://github.com/user-attachments/assets/4da35ba6-2025-48b6-9389-fcaa81277ae2" />
+<img width="393" height="535" alt="Image" src="https://github.com/user-attachments/assets/06431cf1-fe5a-467e-84cd-4acfb14bf930" />
 ## Application to Classify Brain Tumor (screenshot)
-![App](https://github.com/Ellie190/Brain-Tumor-Classification/blob/main/Figures/AppScreenshot1.png)
+<img width="738" height="454" alt="Image" src="https://github.com/user-attachments/assets/e967b2b3-f73d-4501-8538-302e19161a63" />
 
